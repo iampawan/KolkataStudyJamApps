@@ -1,4 +1,4 @@
-# statesapp
+# KolkataStudyJam Apps
 
 A new Flutter application.
 
